@@ -1,0 +1,95 @@
+name: cashier_system_v2
+description: "Cashier, inventory and accounting system — rebuilt."
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  # State management. One cubit per screen, a plain immutable state class with
+  # `copyWith`, and the widget tree rebuilds from that state and nothing else —
+  # the same shape the admin panel uses, so a person who has read one codebase
+  # can read the other.
+  flutter_bloc: ^9.0.0
+
+  # Value equality without code generation. Chosen over freezed on purpose:
+  # freezed needs build_runner, a .freezed.dart beside every model and a
+  # rebuild after every edit. Equatable is one `props` getter and nothing to
+  # generate — the right trade for entities this plain.
+  equatable: ^2.0.5
+
+  # Service locator. Lets a cubit be built without the widget tree knowing
+  # which repository implementation it gets.
+  get_it: ^8.0.3
+
+  # Either<Failure, T> — repositories return errors instead of throwing them,
+  # so no screen can forget a try/catch and end up showing a blank table.
+  dartz: ^0.10.1
+
+  # Local database. `sqflite` on Android and iOS, the FFI build on Windows,
+  # Linux and macOS; `sqflite_common` gives the shared types the repositories
+  # are written against.
+  sqflite: ^2.4.2
+  sqflite_common: ^2.5.8
+  sqflite_common_ffi: ^2.4.0
+
+  # Paths and files
+  path: ^1.9.1
+  path_provider: ^2.1.6
+  file_picker: ^12.0.0
+
+  # Formatting dates and numbers
+  intl: ^0.20.3
+
+  # Password hashing for the local login
+  crypto: ^3.0.7
+
+  collection: ^1.19.1
+
+  # Grapheme-safe string slicing — one "letter" of a name for an avatar can
+  # be several code units. Flutter re-exports this, but the domain layer
+  # imports no Flutter, so it is a direct dependency here.
+  characters: ^1.4.0
+
+  # Receipts and reports: `pdf` draws them, `printing` sends them to a printer
+  # or shows the preview.
+  pdf: ^3.12.0
+  printing: ^5.14.3
+  barcode: ^2.2.9
+
+  # Item photos
+  image_picker: ^1.2.3
+
+  # Desktop window size and title
+  window_manager: ^0.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  bloc_test: ^10.0.0
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/fonts/
+
+  # Bundled rather than borrowed from the host: the PDF renderer has no system
+  # fonts at all, so without this every Arabic and Kurdish receipt would print
+  # as empty boxes. Noto Kufi Arabic (SIL OFL), carried over from the previous
+  # version of the app.
+  fonts:
+    - family: NotoKufiArabic
+      fonts:
+        - asset: assets/fonts/NotoKufiArabic-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/NotoKufiArabic-Bold.ttf
+          weight: 700

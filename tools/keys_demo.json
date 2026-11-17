@@ -1,0 +1,51 @@
+[
+  [
+    "settingsDemoData",
+    "settings_demo_data",
+    "Demo data",
+    "بيانات تجريبية",
+    "داتای تاقیکردنەوە"
+  ],
+  [
+    "settingsDemoHint",
+    "settings_demo_hint",
+    "Fills the shop with a supermarket catalogue so you can test the till, the reports and the expiry screen.",
+    "يملأ المتجر بكتالوك سوبرماركت لتجربة نقطة البيع والتقارير وشاشة الصلاحية.",
+    "دوکان پڕ دەکات لە کاتالۆگی سوپەرمارکێت بۆ تاقیکردنەوەی کاسە و ڕاپۆرت و ڕوونی بەسەرچوون."
+  ],
+  [
+    "settingsDemoLoad",
+    "settings_demo_load",
+    "Load",
+    "تحميل",
+    "بارکردن"
+  ],
+  [
+    "settingsDemoWarning",
+    "settings_demo_warning",
+    "This adds demo categories, items, barcodes and opening stock. It does not touch what you already have, and the opening stock is posted to the books.",
+    "سيضيف أقساماً وأصنافاً وباركودات ورصيداً افتتاحياً تجريبياً. لن يمس بياناتك الحالية، والرصيد الافتتاحي يُقيَّد في الدفاتر.",
+    "بەش و کاڵا و بارکۆد و کۆگای سەرەتایی تاقیکردنەوە زیاد دەکات. دەست لە داتای ئێستات نادات، و کۆگای سەرەتایی لە دەفتەرەکاندا تۆمار دەکرێت."
+  ],
+  [
+    "settingsDemoDone",
+    "settings_demo_done",
+    "Added {n} demo items.",
+    "تمت إضافة {n} صنفاً تجريبياً.",
+    "{n} کاڵای تاقیکردنەوە زیادکرا."
+  ],
+  [
+    "settingsDemoAlready",
+    "settings_demo_already",
+    "The demo catalogue is already loaded.",
+    "الكتالوك التجريبي محمّل مسبقاً.",
+    "کاتالۆگی تاقیکردنەوە پێشتر بارکراوە."
+  ],
+  [
+    "settingsDemoLoaded",
+    "settings_demo_loaded",
+    "The demo catalogue is loaded.",
+    "الكتالوك التجريبي محمّل.",
+    "کاتالۆگی تاقیکردنەوە بارکراوە."
+  ]
+]

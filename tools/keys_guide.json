@@ -1,0 +1,72 @@
+[
+  [
+    "guideTitle",
+    "guide_title",
+    "Guide",
+    "الدليل",
+    "ڕێنمایی"
+  ],
+  [
+    "guideSubtitle",
+    "guide_subtitle",
+    "Every screen in the app, what it is for, and what you can do in it.",
+    "كل شاشة في البرنامج، لماذا هي، وماذا تستطيع أن تفعل فيها.",
+    "هەموو شاشەیەکی بەرنامەکە، بۆچی هەیە، و چی دەتوانیت تێیدا بکەیت."
+  ],
+  [
+    "guideSearchHint",
+    "guide_search_hint",
+    "Search the guide",
+    "ابحث في الدليل",
+    "لە ڕێنماییدا بگەڕێ"
+  ],
+  [
+    "guideScreens",
+    "guide_screens",
+    "Screens",
+    "الشاشات",
+    "شاشەکان"
+  ],
+  [
+    "guideTasks",
+    "guide_tasks",
+    "I want to…",
+    "أريد أن…",
+    "دەمەوێت…"
+  ],
+  [
+    "guideCanDo",
+    "guide_can_do",
+    "What you can do here",
+    "ماذا تستطيع أن تفعل هنا",
+    "لێرە چی دەتوانیت بکەیت"
+  ],
+  [
+    "guideParts",
+    "guide_parts",
+    "The parts of this screen",
+    "أقسام هذه الشاشة",
+    "بەشەکانی ئەم شاشەیە"
+  ],
+  [
+    "guideFromHere",
+    "guide_from_here",
+    "From here you can",
+    "من هنا تستطيع",
+    "لێرەوە دەتوانیت"
+  ],
+  [
+    "guideOpen",
+    "guide_open",
+    "Open this screen",
+    "افتح هذه الشاشة",
+    "ئەم شاشەیە بکەرەوە"
+  ],
+  [
+    "navGuide",
+    "nav_guide",
+    "Guide",
+    "الدليل",
+    "ڕێنمایی"
+  ]
+]

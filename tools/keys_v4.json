@@ -1,0 +1,737 @@
+[
+ [
+  "promotionsTitle",
+  "promotions_title",
+  "Offers",
+  "العروض",
+  "ئۆفەرەکان"
+ ],
+ [
+  "promotionsNew",
+  "promotions_new",
+  "New offer",
+  "عرض جديد",
+  "ئۆفەری نوێ"
+ ],
+ [
+  "promotionsEmpty",
+  "promotions_empty",
+  "No offers yet.",
+  "لا توجد عروض بعد.",
+  "هێشتا هیچ ئۆفەرێک نییە."
+ ],
+ [
+  "promotionsKind",
+  "promotions_kind",
+  "Offer",
+  "نوع العرض",
+  "جۆری ئۆفەر"
+ ],
+ [
+  "promotionsWhen",
+  "promotions_when",
+  "Runs",
+  "الفترة",
+  "ماوە"
+ ],
+ [
+  "promotionsScope",
+  "promotions_scope",
+  "Applies to",
+  "ينطبق على",
+  "بۆ"
+ ],
+ [
+  "promotionsChosen",
+  "promotions_chosen",
+  "{n} items chosen",
+  "تم اختيار {n} صنفاً",
+  "{n} کاڵا هەڵبژێردراوە"
+ ],
+ [
+  "promotionsMembersOnly",
+  "promotions_members_only",
+  "Customers with an account only",
+  "للزبائن المسجلين فقط",
+  "تەنها بۆ کڕیارە تۆمارکراوەکان"
+ ],
+ [
+  "promotionsKindPercent",
+  "promotions_kind_percent",
+  "A percentage off",
+  "خصم نسبة",
+  "ڕێژەیەک داشکاندن"
+ ],
+ [
+  "promotionsKindAmount",
+  "promotions_kind_amount",
+  "An amount off",
+  "خصم مبلغ",
+  "بڕێک داشکاندن"
+ ],
+ [
+  "promotionsKindPrice",
+  "promotions_kind_price",
+  "A special price",
+  "سعر خاص",
+  "نرخی تایبەت"
+ ],
+ [
+  "promotionsKindQuantity",
+  "promotions_kind_quantity",
+  "Cheaper from a quantity up",
+  "سعر أقل من كمية معينة",
+  "نرخی کەمتر لە بڕێکەوە"
+ ],
+ [
+  "promotionsKindBuyGet",
+  "promotions_kind_buy_get",
+  "Buy some, get some free",
+  "اشترِ واحصل مجاناً",
+  "بکڕە و بەخۆڕایی وەربگرە"
+ ],
+ [
+  "promotionsPercent",
+  "promotions_percent",
+  "Percentage off",
+  "نسبة الخصم",
+  "ڕێژەی داشکاندن"
+ ],
+ [
+  "promotionsAmountOff",
+  "promotions_amount_off",
+  "Amount off",
+  "مبلغ الخصم",
+  "بڕی داشکاندن"
+ ],
+ [
+  "promotionsNewPrice",
+  "promotions_new_price",
+  "Price during the offer",
+  "السعر خلال العرض",
+  "نرخ لە ماوەی ئۆفەردا"
+ ],
+ [
+  "promotionsMinQty",
+  "promotions_min_qty",
+  "From this quantity up",
+  "ابتداءً من كمية",
+  "لەم بڕەوە"
+ ],
+ [
+  "promotionsBuyQty",
+  "promotions_buy_qty",
+  "Buy",
+  "اشترِ",
+  "بکڕە"
+ ],
+ [
+  "promotionsGetQty",
+  "promotions_get_qty",
+  "Get free",
+  "واحصل مجاناً",
+  "بەخۆڕایی وەربگرە"
+ ],
+ [
+  "promotionsOffPercent",
+  "promotions_off_percent",
+  "{n}% off",
+  "خصم {n}%",
+  "{n}% داشکاندن"
+ ],
+ [
+  "promotionsOffAmount",
+  "promotions_off_amount",
+  "{amount} off",
+  "خصم {amount}",
+  "{amount} داشکاندن"
+ ],
+ [
+  "promotionsFixedPrice",
+  "promotions_fixed_price",
+  "At {amount}",
+  "بسعر {amount}",
+  "بە {amount}"
+ ],
+ [
+  "promotionsFromQty",
+  "promotions_from_qty",
+  "{amount} from {qty} up",
+  "{amount} ابتداءً من {qty}",
+  "{amount} لە {qty}ەوە"
+ ],
+ [
+  "promotionsBuyGet",
+  "promotions_buy_get",
+  "Buy {buy}, get {get}",
+  "اشترِ {buy} واحصل على {get}",
+  "{buy} بکڕە، {get} وەربگرە"
+ ],
+ [
+  "promotionsCost",
+  "promotions_cost",
+  "What they cost",
+  "كلفة العروض",
+  "تێچووی ئۆفەرەکان"
+ ],
+ [
+  "promotionsGiven",
+  "promotions_given",
+  "Given away",
+  "ما تم منحه",
+  "ئەوەی درا"
+ ],
+ [
+  "promotionsLines",
+  "promotions_lines",
+  "Times used",
+  "مرات الاستخدام",
+  "جاری بەکارهێنان"
+ ],
+ [
+  "promotionsApplied",
+  "promotions_applied",
+  "Offer applied",
+  "تم تطبيق عرض",
+  "ئۆفەر جێبەجێ کرا"
+ ],
+ [
+  "loyaltyTitle",
+  "loyalty_title",
+  "Points",
+  "النقاط",
+  "خاڵەکان"
+ ],
+ [
+  "loyaltyPoints",
+  "loyalty_points",
+  "Points",
+  "النقاط",
+  "خاڵ"
+ ],
+ [
+  "loyaltyEmpty",
+  "loyalty_empty",
+  "Nobody has collected points yet.",
+  "لم يجمع أحد نقاطاً بعد.",
+  "هێشتا کەس خاڵی کۆنەکردۆتەوە."
+ ],
+ [
+  "loyaltyUse",
+  "loyalty_use",
+  "Use points",
+  "استخدام النقاط",
+  "بەکارهێنانی خاڵ"
+ ],
+ [
+  "loyaltyAvailable",
+  "loyalty_available",
+  "{n} points ({amount})",
+  "{n} نقطة ({amount})",
+  "{n} خاڵ ({amount})"
+ ],
+ [
+  "loyaltyEarned",
+  "loyalty_earned",
+  "Earned {n} points",
+  "ربح {n} نقطة",
+  "{n} خاڵ بەدەستهێنرا"
+ ],
+ [
+  "settingsLoyalty",
+  "settings_loyalty",
+  "Points scheme",
+  "برنامج النقاط",
+  "پڕۆگرامی خاڵ"
+ ],
+ [
+  "settingsLoyaltyOn",
+  "settings_loyalty_on",
+  "Give customers points",
+  "منح الزبائن نقاطاً",
+  "خاڵ بدە بە کڕیاران"
+ ],
+ [
+  "settingsLoyaltyEarn",
+  "settings_loyalty_earn",
+  "Spend that earns one point",
+  "المبلغ الذي يمنح نقطة",
+  "ئەو بڕەی یەک خاڵ دەداتەوە"
+ ],
+ [
+  "settingsLoyaltyValue",
+  "settings_loyalty_value",
+  "What one point is worth",
+  "قيمة النقطة الواحدة",
+  "بەهای یەک خاڵ"
+ ],
+ [
+  "settingsLoyaltyMin",
+  "settings_loyalty_min",
+  "Points needed before they can be used",
+  "أقل عدد نقاط للاستخدام",
+  "کەمترین خاڵ بۆ بەکارهێنان"
+ ],
+ [
+  "expiryTitle",
+  "expiry_title",
+  "Expiry",
+  "الصلاحية",
+  "بەسەرچوون"
+ ],
+ [
+  "expiryWithin",
+  "expiry_within",
+  "Within {n} days",
+  "خلال {n} يوماً",
+  "لە ماوەی {n} ڕۆژدا"
+ ],
+ [
+  "expiryExpired",
+  "expiry_expired",
+  "Already expired",
+  "منتهية الصلاحية",
+  "بەسەرچوو"
+ ],
+ [
+  "expirySoon",
+  "expiry_soon",
+  "Expiring soon",
+  "قاربت الصلاحية",
+  "نزیکە بەسەر بچێت"
+ ],
+ [
+  "expiryNothing",
+  "expiry_nothing",
+  "Nothing is close to expiring.",
+  "لا شيء قارب على الانتهاء.",
+  "هیچ نزیک نییە لە بەسەرچوون."
+ ],
+ [
+  "expiryBatch",
+  "expiry_batch",
+  "Batch",
+  "رقم التشغيلة",
+  "ژمارەی بەرهەم"
+ ],
+ [
+  "expiryDate",
+  "expiry_date",
+  "Expires",
+  "تاريخ الانتهاء",
+  "بەروار"
+ ],
+ [
+  "expiryDaysLeft",
+  "expiry_days_left",
+  "Days left",
+  "الأيام المتبقية",
+  "ڕۆژی ماوە"
+ ],
+ [
+  "expiryGone",
+  "expiry_gone",
+  "Expired",
+  "منتهية",
+  "بەسەرچوو"
+ ],
+ [
+  "itemsTracksBatches",
+  "items_tracks_batches",
+  "Track batches and expiry dates",
+  "تتبّع التشغيلات وتواريخ الصلاحية",
+  "بەدواداچوونی بەرهەم و بەرواری بەسەرچوون"
+ ],
+ [
+  "insightsTitle",
+  "insights_title",
+  "Insights",
+  "التحليلات",
+  "شیکارییەکان"
+ ],
+ [
+  "insightsSubtitle",
+  "insights_subtitle",
+  "What is not selling, what earns most, when the shop is busy, and what to buy.",
+  "ما لا يُباع، وما يربح أكثر، ومتى يزدحم المحل، وما يجب شراؤه.",
+  "چی نافرۆشرێت، چی زۆرتر قازانج دەکات، کەی دوکان قەرەباڵغە، و چی بکڕدرێت."
+ ],
+ [
+  "insightsStockValue",
+  "insights_stock_value",
+  "Stock at cost",
+  "قيمة المخزون",
+  "بەهای کۆگا"
+ ],
+ [
+  "insightsDeadValue",
+  "insights_dead_value",
+  "Not moving",
+  "راكد",
+  "نەجوڵاو"
+ ],
+ [
+  "insightsBusiestHour",
+  "insights_busiest_hour",
+  "Busiest hour",
+  "أكثر ساعة ازدحاماً",
+  "قەرەباڵغترین کاتژمێر"
+ ],
+ [
+  "insightsToReorder",
+  "insights_to_reorder",
+  "To reorder",
+  "بحاجة لطلب",
+  "پێویستی بە داواکردنە"
+ ],
+ [
+  "insightsDead",
+  "insights_dead",
+  "Not selling",
+  "لا يُباع",
+  "نافرۆشرێت"
+ ],
+ [
+  "insightsEarners",
+  "insights_earners",
+  "Earning most",
+  "الأكثر ربحاً",
+  "زۆرترین قازانج"
+ ],
+ [
+  "insightsHours",
+  "insights_hours",
+  "By hour",
+  "حسب الساعة",
+  "بەپێی کاتژمێر"
+ ],
+ [
+  "insightsSittingValue",
+  "insights_sitting_value",
+  "Sitting on the shelf",
+  "قيمة راكدة",
+  "بەهای ڕاوەستاو"
+ ],
+ [
+  "insightsProfit30d",
+  "insights_profit_30d",
+  "Profit, 30 days",
+  "ربح ٣٠ يوماً",
+  "قازانجی ٣٠ ڕۆژ"
+ ],
+ [
+  "insightsCover",
+  "insights_cover",
+  "Cover",
+  "التغطية",
+  "بەشکردن"
+ ],
+ [
+  "insightsDays",
+  "insights_days",
+  "{n} days",
+  "{n} يوماً",
+  "{n} ڕۆژ"
+ ],
+ [
+  "insightsDaysAgo",
+  "insights_days_ago",
+  "{n} days ago",
+  "قبل {n} يوماً",
+  "{n} ڕۆژ لەمەوبەر"
+ ],
+ [
+  "insightsNeverSold",
+  "insights_never_sold",
+  "Never sold",
+  "لم يُبَع قط",
+  "هەرگیز نەفرۆشراوە"
+ ],
+ [
+  "insightsNothing",
+  "insights_nothing",
+  "Nothing to show yet.",
+  "لا شيء لعرضه بعد.",
+  "هێشتا هیچ نییە بۆ پیشاندان."
+ ],
+ [
+  "permissionsTitle",
+  "permissions_title",
+  "Permissions",
+  "الصلاحيات",
+  "دەسەڵاتەکان"
+ ],
+ [
+  "permissionsHint",
+  "permissions_hint",
+  "What each role may do. Changes take effect immediately.",
+  "ما يُسمح به لكل دور. التغييرات تسري فوراً.",
+  "هەر ڕۆڵێک چی بکات. گۆڕانکارییەکان دەستبەجێ کاردەکەن."
+ ],
+ [
+  "permissionsOwnerLocked",
+  "permissions_owner_locked",
+  "The owner keeps every permission — that is what makes them the owner.",
+  "المالك يحتفظ بكل الصلاحيات، وهذا ما يجعله المالك.",
+  "خاوەن هەموو دەسەڵاتەکان دەهێڵێتەوە — ئەوەیە کە دەیکاتە خاوەن."
+ ],
+ [
+  "permPosUse",
+  "perm_pos_use",
+  "Use the till",
+  "استخدام الكاشير",
+  "بەکارهێنانی کاشێر"
+ ],
+ [
+  "permPosDiscount",
+  "perm_pos_discount",
+  "Give a discount",
+  "منح خصم",
+  "دانی داشکاندن"
+ ],
+ [
+  "permPosBelowMin",
+  "perm_pos_below_min",
+  "Sell below the minimum price",
+  "البيع تحت الحد الأدنى",
+  "فرۆشتن خوار کەمترین نرخ"
+ ],
+ [
+  "permPosBelowMinHint",
+  "perm_pos_below_min_hint",
+  "Every item can carry a floor price. Without this, the till refuses to go under it.",
+  "لكل صنف حد أدنى للسعر. بدون هذه الصلاحية يرفض الكاشير النزول تحته.",
+  "هەر کاڵایەک کەمترین نرخی هەیە. بەبێ ئەمە کاشێر ڕازی نابێت خوارتر بڕوات."
+ ],
+ [
+  "permPosReturn",
+  "perm_pos_return",
+  "Take returns",
+  "قبول المرتجعات",
+  "وەرگرتنی گەڕاندنەوە"
+ ],
+ [
+  "permPosVoid",
+  "perm_pos_void",
+  "Cancel an invoice",
+  "إلغاء فاتورة",
+  "هەڵوەشاندنەوەی پسوڵە"
+ ],
+ [
+  "permItemsView",
+  "perm_items_view",
+  "See the items",
+  "عرض الأصناف",
+  "بینینی کاڵاکان"
+ ],
+ [
+  "permItemsEdit",
+  "perm_items_edit",
+  "Add and change items",
+  "إضافة وتعديل الأصناف",
+  "زیادکردن و گۆڕینی کاڵا"
+ ],
+ [
+  "permItemsCost",
+  "perm_items_cost",
+  "See costs and margins",
+  "رؤية التكلفة والربح",
+  "بینینی تێچوو و قازانج"
+ ],
+ [
+  "permItemsCostHint",
+  "perm_items_cost_hint",
+  "A cashier can run the till without seeing what everything cost.",
+  "يمكن للكاشير العمل دون رؤية تكلفة الأصناف.",
+  "کاشێر دەتوانێت کار بکات بەبێ بینینی تێچووی کاڵاکان."
+ ],
+ [
+  "permStockAdjust",
+  "perm_stock_adjust",
+  "Adjust stock",
+  "تعديل المخزون",
+  "ڕێکخستنی کۆگا"
+ ],
+ [
+  "permStockCount",
+  "perm_stock_count",
+  "Run a stocktake",
+  "إجراء جرد",
+  "ئەنجامدانی ژماردن"
+ ],
+ [
+  "permPromotions",
+  "perm_promotions",
+  "Set up offers",
+  "إعداد العروض",
+  "ڕێکخستنی ئۆفەر"
+ ],
+ [
+  "permPurchasesView",
+  "perm_purchases_view",
+  "See purchases",
+  "عرض المشتريات",
+  "بینینی کڕینەکان"
+ ],
+ [
+  "permPurchasesEdit",
+  "perm_purchases_edit",
+  "Enter purchases",
+  "إدخال المشتريات",
+  "تۆمارکردنی کڕین"
+ ],
+ [
+  "permOrders",
+  "perm_orders",
+  "Order from suppliers",
+  "الطلب من الموردين",
+  "داواکردن لە دابینکەران"
+ ],
+ [
+  "permPartiesView",
+  "perm_parties_view",
+  "See customers and suppliers",
+  "عرض الزبائن والموردين",
+  "بینینی کڕیار و دابینکەر"
+ ],
+ [
+  "permPartiesEdit",
+  "perm_parties_edit",
+  "Add and change them",
+  "إضافتهم وتعديلهم",
+  "زیادکردن و گۆڕینیان"
+ ],
+ [
+  "permReports",
+  "perm_reports",
+  "See the reports",
+  "عرض التقارير",
+  "بینینی ڕاپۆرتەکان"
+ ],
+ [
+  "permProfit",
+  "perm_profit",
+  "See the profit",
+  "رؤية الأرباح",
+  "بینینی قازانج"
+ ],
+ [
+  "permProfitHint",
+  "perm_profit_hint",
+  "Turnover without margin, for a manager who is not shown the books.",
+  "المبيعات دون هامش الربح لمن لا يُطلعه المالك على الدفاتر.",
+  "فرۆشتن بەبێ قازانج، بۆ ئەو بەڕێوەبەرەی دەفتەری نیشان نادرێت."
+ ],
+ [
+  "permAccounting",
+  "perm_accounting",
+  "See the books",
+  "عرض الدفاتر",
+  "بینینی دەفتەرەکان"
+ ],
+ [
+  "permAccountingPost",
+  "perm_accounting_post",
+  "Post journal entries",
+  "تسجيل قيود",
+  "تۆمارکردنی تۆمار"
+ ],
+ [
+  "permShiftsOther",
+  "perm_shifts_other",
+  "Close another cashier shift",
+  "إغلاق وردية كاشير آخر",
+  "داخستنی شیفتی کاشێرێکی تر"
+ ],
+ [
+  "permShiftsOtherHint",
+  "perm_shifts_other_hint",
+  "For the person who has to close a till when somebody went home.",
+  "لمن يضطر لإغلاق صندوق تركه أحدهم وذهب.",
+  "بۆ ئەو کەسەی دەبێت سندوقێک دابخات کە کەسێک بەجێی هێشتووە."
+ ],
+ [
+  "permSettings",
+  "perm_settings",
+  "Change the settings",
+  "تغيير الإعدادات",
+  "گۆڕینی ڕێکخستنەکان"
+ ],
+ [
+  "permUsers",
+  "perm_users",
+  "Manage users",
+  "إدارة المستخدمين",
+  "بەڕێوەبردنی بەکارهێنەران"
+ ],
+ [
+  "permAudit",
+  "perm_audit",
+  "Read the activity log",
+  "قراءة سجل النشاط",
+  "خوێندنەوەی تۆماری چالاکی"
+ ],
+ [
+  "settingsBackupAuto",
+  "settings_backup_auto",
+  "Automatic backups",
+  "النسخ الاحتياطي التلقائي",
+  "باکئەپی خۆکار"
+ ],
+ [
+  "settingsBackupAutoOn",
+  "settings_backup_auto_on",
+  "Copy the database automatically",
+  "نسخ قاعدة البيانات تلقائياً",
+  "کۆپیکردنی داتابەیس بەخۆکاری"
+ ],
+ [
+  "settingsBackupFolder",
+  "settings_backup_folder",
+  "Where to keep the copies",
+  "مكان حفظ النسخ",
+  "شوێنی هەڵگرتنی کۆپییەکان"
+ ],
+ [
+  "settingsBackupEvery",
+  "settings_backup_every",
+  "Hours between copies",
+  "ساعات بين كل نسخة",
+  "کاتژمێر لە نێوان کۆپییەکان"
+ ],
+ [
+  "settingsBackupKeep",
+  "settings_backup_keep",
+  "How many copies to keep",
+  "عدد النسخ المحفوظة",
+  "ژمارەی کۆپییە هەڵگیراوەکان"
+ ],
+ [
+  "settingsBackupLast",
+  "settings_backup_last",
+  "Last copy",
+  "آخر نسخة",
+  "دوایین کۆپی"
+ ],
+ [
+  "settingsBackupNow",
+  "settings_backup_now",
+  "Back up now",
+  "نسخ الآن",
+  "ئێستا کۆپی بکە"
+ ],
+ [
+  "settingsMinPrice",
+  "settings_min_price",
+  "Refuse to sell below the minimum price",
+  "منع البيع تحت الحد الأدنى",
+  "ڕێگری لە فرۆشتن خوار کەمترین نرخ"
+ ],
+ [
+  "posBelowMinPrice",
+  "pos_below_min_price",
+  "{name} has a minimum price of {amount}.",
+  "الحد الأدنى لسعر {name} هو {amount}.",
+  "کەمترین نرخی {name} بریتییە لە {amount}."
+ ]
+]

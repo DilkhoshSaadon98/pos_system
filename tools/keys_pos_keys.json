@@ -1,0 +1,86 @@
+[
+  [
+    "posClearConfirm",
+    "pos_clear_confirm",
+    "Empty the basket and start again?",
+    "إفراغ السلة والبدء من جديد؟",
+    "سەبەتەکە بەتاڵ بکرێت و لە سەرەتاوە دەست پێبکرێتەوە؟"
+  ],
+  [
+    "posNothingToReprint",
+    "pos_nothing_to_reprint",
+    "There is no receipt to print again yet.",
+    "لا يوجد وصل لإعادة طباعته بعد.",
+    "هێشتا هیچ پسوولەیەک نییە بۆ چاپکردنەوە."
+  ],
+  [
+    "posShortcuts",
+    "pos_shortcuts",
+    "Shortcuts",
+    "الاختصارات",
+    "کورتەڕێکان"
+  ],
+  [
+    "posShortcutSearch",
+    "pos_shortcut_search",
+    "Search",
+    "بحث",
+    "گەڕان"
+  ],
+  [
+    "posShortcutCustomer",
+    "pos_shortcut_customer",
+    "Customer",
+    "الزبون",
+    "کڕیار"
+  ],
+  [
+    "posShortcutHold",
+    "pos_shortcut_hold",
+    "Hold",
+    "تعليق",
+    "هەڵگرتن"
+  ],
+  [
+    "posShortcutHeld",
+    "pos_shortcut_held",
+    "Held",
+    "المعلّقة",
+    "هەڵگیراوەکان"
+  ],
+  [
+    "posShortcutPriceMode",
+    "pos_shortcut_price_mode",
+    "Price",
+    "السعر",
+    "نرخ"
+  ],
+  [
+    "posShortcutLine",
+    "pos_shortcut_line",
+    "Edit line",
+    "تعديل السطر",
+    "دەستکاری ڕیز"
+  ],
+  [
+    "posShortcutClear",
+    "pos_shortcut_clear",
+    "Empty",
+    "تفريغ",
+    "بەتاڵکردن"
+  ],
+  [
+    "posShortcutReprint",
+    "pos_shortcut_reprint",
+    "Reprint",
+    "إعادة طباعة",
+    "چاپکردنەوە"
+  ],
+  [
+    "posShortcutPay",
+    "pos_shortcut_pay",
+    "Pay",
+    "الدفع",
+    "پارەدان"
+  ]
+]

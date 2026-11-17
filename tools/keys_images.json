@@ -1,0 +1,44 @@
+[
+  [
+    "imagePickFailed",
+    "image_pick_failed",
+    "That picture could not be added.",
+    "تعذّر إضافة الصورة.",
+    "ناتوانرا وێنەکە زیاد بکرێت."
+  ],
+  [
+    "imageRemove",
+    "image_remove",
+    "Remove the picture",
+    "إزالة الصورة",
+    "لابردنی وێنە"
+  ],
+  [
+    "imageCamera",
+    "image_camera",
+    "Camera",
+    "الكاميرا",
+    "کامێرا"
+  ],
+  [
+    "imageStorage",
+    "image_storage",
+    "Pictures",
+    "الصور",
+    "وێنەکان"
+  ],
+  [
+    "imageCleanup",
+    "image_cleanup",
+    "Delete pictures nothing uses",
+    "حذف الصور غير المستخدمة",
+    "سڕینەوەی وێنە بەکارنەهاتووەکان"
+  ],
+  [
+    "imageCleanupDone",
+    "image_cleanup_done",
+    "Removed {n} unused pictures.",
+    "تم حذف {n} صورة غير مستخدمة.",
+    "{n} وێنەی بەکارنەهاتوو سڕایەوە."
+  ]
+]

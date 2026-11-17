@@ -1,0 +1,58 @@
+[
+  [
+    "displayWelcome",
+    "display_welcome",
+    "Welcome",
+    "أهلاً وسهلاً",
+    "بەخێربێن"
+  ],
+  [
+    "displayThanks",
+    "display_thanks",
+    "Thank you",
+    "شكراً لتسوقكم",
+    "سوپاس بۆ کڕینتان"
+  ],
+  [
+    "settingsDisplay",
+    "settings_display",
+    "Customer display",
+    "شاشة الزبون",
+    "شاشەی کڕیار"
+  ],
+  [
+    "settingsDisplayHint",
+    "settings_display_hint",
+    "Opens a page the second screen can show: the basket, the total and the change. Open the address below in a browser and put it full screen.",
+    "يفتح صفحة تعرضها الشاشة الثانية: السلة والمجموع والباقي. افتح العنوان أدناه في المتصفح واجعله ملء الشاشة.",
+    "لاپەڕەیەک دەکاتەوە کە شاشەی دووەم پیشانی دەدات: سەبەتە و کۆی گشتی و پاشماوە. ناونیشانی خوارەوە لە وێبگەڕدا بکەرەوە و پڕ بە شاشە بیکە."
+  ],
+  [
+    "settingsDisplayPort",
+    "settings_display_port",
+    "Port",
+    "المنفذ",
+    "پۆرت"
+  ],
+  [
+    "settingsDisplayLan",
+    "settings_display_lan",
+    "Allow other devices on the network",
+    "السماح لأجهزة أخرى على الشبكة",
+    "ڕێگە بە ئامێری تر لەسەر تۆڕەکە بدە"
+  ],
+  [
+    "settingsDisplayLanHint",
+    "settings_display_lan_hint",
+    "Off means only this computer can open it. On lets a tablet on the counter show it too.",
+    "إيقافه يعني أن هذا الجهاز فقط يستطيع فتحها. تشغيله يتيح لجهاز لوحي على الكاونتر عرضها أيضاً.",
+    "کوژاندنەوەی واتە تەنها ئەم کۆمپیوتەرە دەیکاتەوە. هەڵکردنی ڕێگە دەدات تابلێتێکی سەر کاونتەریش پیشانی بدات."
+  ],
+  [
+    "settingsDisplayOffline",
+    "settings_display_offline",
+    "The display could not start — the port may be in use.",
+    "تعذّر تشغيل الشاشة — قد يكون المنفذ مستخدماً.",
+    "نەتوانرا شاشەکە دەست پێبکات — لەوانەیە پۆرتەکە بەکارهێنراوبێت."
+  ]
+]

@@ -1,0 +1,107 @@
+[
+  [
+    "permPosCredit",
+    "perm_pos_credit",
+    "Sell past a credit limit",
+    "البيع فوق سقف الدين",
+    "فرۆشتن سەروو سنووری قەرز"
+  ],
+  [
+    "permPosCreditHint",
+    "perm_pos_credit_hint",
+    "Without this the till refuses a credit sale that takes a customer over their limit.",
+    "بدونها يرفض الصندوق بيعاً بالدين يتجاوز سقف الزبون.",
+    "بەبێ ئەمە کاسەکە ڕەتی دەکاتەوە فرۆشتنی قەرز کە کڕیار لە سنووری تێدەپەڕێنێت."
+  ],
+  [
+    "posCreditRefused",
+    "pos_credit_refused",
+    "{name} is at their credit limit. A manager can allow this sale.",
+    "{name} بلغ سقف الدين. يمكن للمدير السماح بهذا البيع.",
+    "{name} گەیشتووەتە سنووری قەرزی. بەڕێوەبەر دەتوانێت ڕێگە بدات."
+  ],
+  [
+    "ageingTitle",
+    "ageing_title",
+    "Who owes, and for how long",
+    "الذمم وأعمارها",
+    "قەرزەکان و تەمەنیان"
+  ],
+  [
+    "ageingCurrent",
+    "ageing_current",
+    "Up to {n} days",
+    "حتى {n} يوم",
+    "تا {n} ڕۆژ"
+  ],
+  [
+    "ageingOver",
+    "ageing_over",
+    "Over {n} days",
+    "أكثر من {n} يوم",
+    "زیاتر لە {n} ڕۆژ"
+  ],
+  [
+    "ageingTotal",
+    "ageing_total",
+    "Owed",
+    "المستحق",
+    "قەرز"
+  ],
+  [
+    "ageingNobody",
+    "ageing_nobody",
+    "Nobody owes anything.",
+    "لا ذمم مستحقة.",
+    "کەس هیچی بەسەرەوە نییە."
+  ],
+  [
+    "ageingOverLimit",
+    "ageing_over_limit",
+    "Over limit",
+    "تجاوز السقف",
+    "لە سنوور تێپەڕیوە"
+  ],
+  [
+    "priceHistory",
+    "price_history",
+    "Price history",
+    "تاريخ الأسعار",
+    "مێژووی نرخ"
+  ],
+  [
+    "priceHistoryNone",
+    "price_history_none",
+    "This price has not changed yet.",
+    "لم يتغيّر هذا السعر بعد.",
+    "ئەم نرخە هێشتا نەگۆڕاوە."
+  ],
+  [
+    "costHistory",
+    "cost_history",
+    "What it has cost",
+    "تكلفتها عبر الزمن",
+    "تێچووی بەدرێژایی کات"
+  ],
+  [
+    "priceFieldSell",
+    "price_field_sell",
+    "Retail",
+    "المفرد",
+    "تاکە"
+  ],
+  [
+    "priceFieldWholesale",
+    "price_field_wholesale",
+    "Wholesale",
+    "الجملة",
+    "کۆ"
+  ],
+  [
+    "priceFieldMin",
+    "price_field_min",
+    "Floor",
+    "الحد الأدنى",
+    "کەمترین"
+  ]
+]
